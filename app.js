@@ -4,7 +4,7 @@ var answer = document.getElementById("question-ask");
 function createAlert(e) {
     var x = e.keyCode;
     switch (x) {
-      case 191:
+      case 63:
         getApiContent();
         goBack();
         hide();
