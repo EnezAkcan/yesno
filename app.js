@@ -15,7 +15,7 @@ function createAlert(e) {
 document.addEventListener('keydown', createAlert);
 
 const urll = 'https://yesno.wtf/api';
-let localUrl = 'http://127.0.0.1:5500/';
+let localUrl = 'https://enezakcan.github.io/yesno/';
 
 const apiContentList = [];
 
