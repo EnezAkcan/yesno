@@ -8,7 +8,7 @@ body, html {
 }
 body{
     text-align: center;
-    background-image:  url(https://media.tenor.com/5sglUOGwcfYAAAAC/batman-thinking.gif);
+    background-image:url(batman-thinking.gif);
 }
 .myimg{
     object-fit: cover;
@@ -20,6 +20,7 @@ body{
     position: relative;
 }
 .question-text{
+    color: white;
     text-align: center;
     font-size: 30px;
 }
