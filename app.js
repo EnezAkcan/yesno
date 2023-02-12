@@ -8,6 +8,7 @@ function createAlert(e) {
         getApiContent();
         goBack();
         hide();
+        changeBackToQuestion();
         console.log('success');
     }
     console.log(x);
@@ -41,4 +42,3 @@ function goBack(){
 function hide(){
   document.getElementById("answer_question").style.display = "none";
 } 
-
