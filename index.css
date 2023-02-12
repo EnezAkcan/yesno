@@ -8,6 +8,7 @@ body, html {
 }
 body{
     text-align: center;
+    background-image:  url(https://media.tenor.com/5sglUOGwcfYAAAAC/batman-thinking.gif);
 }
 .myimg{
     object-fit: cover;
