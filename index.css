@@ -7,8 +7,15 @@ body, html {
     box-sizing: border-box;
 }
 body{
-    text-align: center;
-    background-image:url(batman-thinking.gif);
+    font-family: Georgia, serif;
+	font-size: 16px;
+	line-height: 1.6em;
+    margin: 0;
+    position: center;
+    background-image: url(https://media.tenor.com/5sglUOGwcfYAAAAC/batman-thinking.gif); /* responsive olması için  body'de*/
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
 }
 .myimg{
     object-fit: cover;
